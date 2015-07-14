@@ -10566,5 +10566,33 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
     },
     "w": 305.0,
     "ab": "Aura Break"
+  },
+  "Hoopa": {
+    "t1": "Psychic",
+    "t2": "Ghost"
+    "bs": {
+      "hp": 80,
+      "at": 110,
+      "df": 60,
+      "sa": 150,
+      "sd": 130,
+      "sp": 70,
+    },
+    "w": 9.0,
+    "ab": "Magician"
+  },
+  "Hoopa-U": {
+    "t1": "Psychic",
+    "t2": "Dark"
+    "bs": {
+      "hp": 80,
+      "at": 160,
+      "df": 60,
+      "sa": 170,
+      "sd": 130,
+      "sp": 70,
+    },
+    "w": 490.0,
+    "ab": "Magician"
   }
 });
